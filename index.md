@@ -5,7 +5,7 @@
 #### I am an Electronics and Communication Engineering student
 ##### At Vidya Academy of Science and Technology
 ###### I am a third year student
-![Image of Hana](skills-communicate-using-markdown/HanaPS.png)
+![Image of Hana](HanaPS.png)
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
